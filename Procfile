@@ -1,1 +1,1 @@
-web: python tel_bot.py
+worker: python tel_bot.py
